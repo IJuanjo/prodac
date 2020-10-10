@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import { Formulario } from './components/prodac/Formulario.jsx';
 import { Agradecimiento } from './components/prodac/Agradecimiento.jsx';
+import { Login } from './components/prodac/Login.jsx';
 export const Prodac = () => {
     return (
         <Router>
@@ -14,6 +15,7 @@ export const Prodac = () => {
                 <Switch>
                    <Route path="/" exact component={Formulario} />
                    <Route path="/agradecimiento" exact component={Agradecimiento} />
+                   <Route path="/login" exact component={Login} />
                     <Redirect to="/" />
                 </Switch>
             </div>
