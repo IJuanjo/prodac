@@ -4,27 +4,27 @@ export const preguntas=[
         'preguntas':[
             {
                 "slug":"quest1",
-                "text":"pregunta 1 a"
+                "text":"Cotizaciones"
             },
             {
                 "slug":"quest2",
-                "text":"pregunta 2 a"
+                "text":"Productos"
             },
             {
                 "slug":"quest3",
-                "text":"pregunta 3 a"
+                "text":"Lugares de despacho"
             },
             {
                 "slug":"quest4",
-                "text":"pregunta 4 a"
+                "text":"Donde comprar"
             },
             {
                 "slug":"quest5",
-                "text":"pregunta 5 a"
+                "text":"Requisitos"
             },
             {
                 "slug":"quest6",
-                "text":"pregunta 6 a"
+                "text":"Catálogo de productos"
             },
         ]
     },
@@ -33,27 +33,27 @@ export const preguntas=[
         'preguntas':[
             {
                 "slug":"quest1",
-                "text":"pregunta 1 c"
+                "text":"Cotizaciones"
             },
             {
                 "slug":"quest2",
-                "text":"pregunta 2 c"
+                "text":"Productos"
             },
             {
                 "slug":"quest3",
-                "text":"pregunta 3 c"
+                "text":"Lugares de despacho"
             },
             {
                 "slug":"quest4",
-                "text":"pregunta 4 c"
+                "text":"Donde comprar"
             },
             {
                 "slug":"quest5",
-                "text":"pregunta 5 c"
+                "text":"Requisitos"
             },
             {
                 "slug":"quest6",
-                "text":"pregunta 6 c"
+                "text":"Catálogo de productos"
             },
         ]
     },
@@ -62,27 +62,27 @@ export const preguntas=[
         'preguntas':[
             {
                 "slug":"quest1",
-                "text":"pregunta 1 f"
+                "text":"Cotizaciones"
             },
             {
                 "slug":"quest2",
-                "text":"pregunta 2 f"
+                "text":"Productos"
             },
             {
                 "slug":"quest3",
-                "text":"pregunta 3 f"
+                "text":"Lugares de despacho"
             },
             {
                 "slug":"quest4",
-                "text":"pregunta 4 f"
+                "text":"Donde comprar"
             },
             {
                 "slug":"quest5",
-                "text":"pregunta 5 f"
+                "text":"Requisitos"
             },
             {
                 "slug":"quest6",
-                "text":"pregunta 6 f"
+                "text":"Catálogo de productos"
             },
         ]
     },
@@ -91,27 +91,27 @@ export const preguntas=[
         'preguntas':[
             {
                 "slug":"quest1",
-                "text":"pregunta 1 i"
+                "text":"Cotizaciones"
             },
             {
                 "slug":"quest2",
-                "text":"pregunta 2 i"
+                "text":"Productos"
             },
             {
                 "slug":"quest3",
-                "text":"pregunta 3 i"
+                "text":"Lugares de despacho"
             },
             {
                 "slug":"quest4",
-                "text":"pregunta 4 i"
+                "text":"Donde comprar"
             },
             {
                 "slug":"quest5",
-                "text":"pregunta 5 i"
+                "text":"Requisitos"
             },
             {
                 "slug":"quest6",
-                "text":"pregunta 6 i"
+                "text":"Catálogo de productos"
             },
         ]
     },
@@ -120,27 +120,27 @@ export const preguntas=[
         'preguntas':[
             {
                 "slug":"quest1",
-                "text":"pregunta 1 m"
+                "text":"Cotizaciones"
             },
             {
                 "slug":"quest2",
-                "text":"pregunta 2 m"
+                "text":"Productos"
             },
             {
                 "slug":"quest3",
-                "text":"pregunta 3 m"
+                "text":"Lugares de despacho"
             },
             {
                 "slug":"quest4",
-                "text":"pregunta 4 m"
+                "text":"Donde comprar"
             },
             {
                 "slug":"quest5",
-                "text":"pregunta 5 m"
+                "text":"Requisitos"
             },
             {
                 "slug":"quest6",
-                "text":"pregunta 6 m"
+                "text":"Catálogo de productos"
             },
         ]
     },
@@ -149,27 +149,27 @@ export const preguntas=[
         'preguntas':[
             {
                 "slug":"quest1",
-                "text":"pregunta 1 i"
+                "text":"Cotizaciones"
             },
             {
                 "slug":"quest2",
-                "text":"pregunta 2 i"
+                "text":"Productos"
             },
             {
                 "slug":"quest3",
-                "text":"pregunta 3 i"
+                "text":"Lugares de despacho"
             },
             {
                 "slug":"quest4",
-                "text":"pregunta 4 i"
+                "text":"Donde comprar"
             },
             {
                 "slug":"quest5",
-                "text":"pregunta 5 i"
+                "text":"Requisitos"
             },
             {
                 "slug":"quest6",
-                "text":"pregunta 6 i"
+                "text":"Catálogo de productos"
             },
         ]
     }

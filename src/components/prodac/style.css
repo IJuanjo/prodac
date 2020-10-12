@@ -6,3 +6,14 @@
     background-color: #EF892E;
     color: #FFF;
 }
+
+
+.text_prodac{
+    height: 100%;
+}
+.pagination li{
+    margin-right: 10px;
+}
+.pagination li:last-of-type{
+    margin-right: 0;
+}
